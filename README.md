@@ -7,9 +7,15 @@
   <img src="src/assets/img/android.png" width="200" height="350" alt="Enter Table Number"/>
 </p>
 
-## Available Scripts
+## Clone to Your Local Server
 
-In the project directory, you can run:
+### `git clone https://github.com/rismandev/page-mejakoding.git`
+
+Chang to project directory, you must install dependency. open your terminal and run this code :
+
+### `npm install`
+
+And You can run project with :
 
 ### `npm start`
 
