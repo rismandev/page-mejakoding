@@ -1,0 +1,56 @@
+body {
+  background: #f6ffff;
+}
+
+.navbar {
+  background: #f1ffff;
+}
+
+.jumbotron {
+  background: transparent;
+  position: relative;
+  margin-bottom: 0px;
+  min-height: 85vh;
+  background-color: 'red' !important;
+  align-items: center;
+}
+
+.masthead {
+  position: absolute;
+  right: 0;
+  margin-right: 50px;
+  width: 500px;
+}
+
+@media (max-width: 767.98px) {
+
+  .jumbotron {
+    position: relative;
+    min-height: 420px !important;
+  }
+
+  .card-masthead {
+    position: absolute;
+    padding: 10px;
+    border-radius: 10px;
+    min-height: 380px;
+  }
+
+  .card-masthead .btn {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+
+  .masthead {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 10px;
+    width: 320px;
+    margin-right: 10px;
+    opacity: 0.4;
+  }
+}
