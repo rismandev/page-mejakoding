@@ -4,6 +4,7 @@
 
 <p float="left">
   <img src="src/assets/img/demo.png" width="600" height="350" alt="Enter Table Number Empty"/>
+  <img src="src/assets/img/android.png" width="200" height="350" alt="Enter Table Number"/>
 </p>
 
 ## Available Scripts
